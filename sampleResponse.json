@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "'Made a terrible mistake...': AB de Villiers retracts statement on Virat Kohli's absence - Times of India",
+            "description": "Cricket News: Former South African cricket sensation AB de Villiers retracts his statement on Virat Kohli's absence from the England Test series after spreading false information. De Villiers expresses regret and emphasizes the importance of family obligation…",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/england-in-india/ab-de-villiers-retracts-statement-on-virat-kohlis-absence/articleshow/107545292.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-107545422,width-1070,height-580,imgsize-45752,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-02-09T05:30:00Z",
+            "content": "It's confirmed! Anushka Sharma and Virat Kohli expecting their second child; fans say 'Junior Kohli is coming'"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "Jasprit Bumrah's workload, KL Rahul's return: Key points as BCCI set to name India's Test squad for remai - Times of India",
+            "description": "Cricket News: The BCCI selectors are set to name India's squad for the remaining three Tests against England. The focus will be on managing Jasprit Bumrah's workload and the return of KL Rahul.",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/england-in-india/bcci-to-name-indias-squad-for-remaining-england-tests-focus-on-bumrahs-workload-and-rahuls-return/articleshow/107543534.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-107544077,width-1070,height-580,imgsize-39176,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-02-09T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Devastated Pakistan players inconsolable after Australia dash U19 WC dreams | Cricket - Hindustan Times",
+            "description": "Pakistan team was crestfallen, tears flowing down the cheeks of players after losing the U19 World Cup semifinal to Australia in a last-over thriller. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/pakistan-players-cant-hold-back-tears-as-australia-smash-their-u19-world-cup-dreams-to-set-up-final-against-india-101707409103851.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/02/08/1600x900/pakistan-tears-screengrab_1707409863516_1707409868242.jpg",
+            "publishedAt": "2024-02-09T01:47:09Z",
+            "content": "Pakistan played one of the most thrilling knockouts in the history of the Under19 World Cup, but in the end, it was Australia, who held their nerves and saw themselves through to the final. After a t… [+3676 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Manmohan Singh, JP Nadda, Ashwini Vaishnaw Among 58 MPs Retiring By May - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2024-02-08T17:12:41Z",
+            "content": null
+        }
+    ]
+}
